@@ -1,148 +1,148 @@
 {
   "foods": [
     {
-        "id":1,
-        "category":"Hot Dishes",
-        "products":[
-            {
-                "id":1,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":2,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":1.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":3,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":3.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":4,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.69,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":5,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.39,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":6,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.99,
-                "nimasidir":"20 Bowls available"
-            }
-        ]
+      "id": "1",
+      "category": "Hot Dishes",
+      "products": [
+        {
+          "id": "1",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes1.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "2",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes2.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 1.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "3",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 3.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "4",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com1.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.69,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "5",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com2.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.39,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "6",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com3.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.99,
+          "nimasidir": "20 Bowls available"
+        }
+      ]
     },
     {
-        "id":2,
-        "category":"Cold Dishes",
-        "products":[
-            {
-                "id":1,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.69,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":2,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":3,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":4,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":5,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":6,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            }
-        ]
+      "id": "2",
+      "category": "Cold Dishes",
+      "products": [
+        {
+          "id": "1",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com4.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.69,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "2",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com5.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "3",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com6.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "4",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com7.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "5",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com8.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "6",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com9.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        }
+      ]
     },
     {
-        "id":1,
-        "category":"Hot Dishes",
-        "products":[
-            {
-                "id":1,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":2,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":1.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":3,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":4,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":5,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            },
-            {
-                "id":6,
-                "img":"",
-                "title":"Spicy seasoned seafood noodles",
-                "price":2.29,
-                "nimasidir":"20 Bowls available"
-            }
-        ]
+      "id": "1",
+      "category": "Hot Dishes",
+      "products": [
+        {
+          "id": "1",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com10.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "2",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com11.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 1.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "3",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com12.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "4",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com13.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "5",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes1.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "6",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com1.png",
+          "title": "Spicy seasoned seafood noodles",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        }
+      ]
     }
-  ]  
+  ]
 }

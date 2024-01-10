@@ -6,30 +6,42 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="/styles/css/minified/main.min.css">
-    <script defer src="/Js/main.js"></script>
     <title>Document</title>
 </head>
-<body>
-    <div class="header"></div>
-    <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
-    <label for="openSidebarMenu" class="sidebarIconToggle">
-        <div class="spinner diagonal part-1"></div>
-        <div class="spinner horizontal"></div>
-        <div class="spinner diagonal part-2"></div>
-    </label>
-    <div id="sidebarMenu">
-        <ul class="sidebarMenuInner">
-            <li class="flex justify-between">Home<i id="icon" class="fa-solid fa-house fa-2x" style="color: #ea7c69;"></i></li>
-            <li class="flex justify-between"><a href="#" target="_blank">Diskount</a><i id="icon" class="fa-solid fa-percent fa-2x" style="color: #ea7c69;"></i></li>
-            <li class="flex justify-between"><a href="#" target="_blank">Dashboard</a><i id="icon" class="fa-solid fa-gauge fa-2x" style="color: #ea7c69;"></i></li>
-            <li class="flex justify-between"><a href="#" target="_blank">Messages</a><i id="icon" class="fa-solid fa-envelope fa-2x" style="color: #ea7c69;"></i></li>
-            <li class="flex justify-between"><a href="#" target="_blank">Notification</a><i id="icon" class="fa-solid fa-bell fa-2x" style="color: #ea7c69;"></i></li>
-            <li class="flex justify-between"><a href="#" target="_blank">Setting</a><i id="icon" class="fa-solid fa-gear fa-2x" style="color: #ea7c69;"></i></li>
-        </ul>
+<body class="text-white h-full">
+    <div class="main h-full flex">
+        <div id="sidebarMenu" class="">
+            <ul class="sidebarMenuInner">
+                <li class="flex justify-center items-center"><i id="icon" class="fa-solid fa-house fa-2x" style="color: #ea7c69;"></i></li>
+                <li class="flex justify-center items-center"><a href="#" target="_blank"></a><i id="icon" class="fa-solid fa-percent fa-2x" style="color: #ea7c69;"></i></li>
+                <li class="flex justify-center items-center"><a href="#" target="_blank"></a><i id="icon" class="fa-solid fa-gauge fa-2x" style="color: #ea7c69;"></i></li>
+                <li class="flex justify-center items-center"><a href="#" target="_blank"></a><i id="icon" class="fa-solid fa-envelope fa-2x" style="color: #ea7c69;"></i></li>
+                <li class="flex justify-center items-center"><a href="#" target="_blank"></a><i id="icon" class="fa-solid fa-bell fa-2x" style="color: #ea7c69;"></i></li>
+                <li class="flex justify-center items-center"><a href="#" target="_blank"></a><i id="icon" class="fa-solid fa-gear fa-2x" style="color: #ea7c69;"></i></li>
+            </ul>
+        </div>
+        <div class="main-fox w-3/5">
+            <div class="main-fox_search flex justify-around items-center h-[80px]">
+                <div>
+                    <h1>Jaegar Resto</h1>
+                    <h3>Tuesday, 2 Feb 2021</h3>
+                </div>
+                <div>
+                    <input class="p-2" type="search" name="search" id="search" placeholder="Search for food, coffe, etc..">
+                </div>
+            </div>
+            <div class="content-tab flex gap-12 ml-8 pt-6">
+                
+            </div> 
+            <div class="main-box flex flex-wrap">
+                
+            </div>
+        </div>
+        <div class="main-korzina w-2/5">
+            
+        </div>  
     </div>
-    <div id='center' class="main center">
-        
-   
-    </div>
+
+    <script type="module" src="./Js/main.js"></script>
 </body>
 </html>

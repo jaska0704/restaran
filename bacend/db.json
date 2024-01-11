@@ -7,43 +7,85 @@
         {
           "id": "1",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes1.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Midwestern",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "2",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes2.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Crab Dish",
           "price": 1.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "3",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Tater Tot",
           "price": 3.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "4",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com1.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Casserolli",
           "price": 2.69,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "5",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com2.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Kentucky",
           "price": 2.39,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "6",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com3.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Molly Yeh's",
           "price": 2.99,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "7",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com4.png",
+          "title": "Bang-Bang",
+          "price": 2.69,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "8",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com5.png",
+          "title": "Spicy Cabbage",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "9",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com6.png",
+          "title": "Sesame Cold",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "10",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com7.png",
+          "title": "Ginger String",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "11",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com8.png",
+          "title": "Cucumber Salad",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "12",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com9.png",
+          "title": "Poached Tender",
+          "price": 2.29,
           "nimasidir": "20 Bowls available"
         }
       ]
@@ -55,91 +97,175 @@
         {
           "id": "1",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com4.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Bang-Bang",
           "price": 2.69,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "2",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com5.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Spicy Cabbage",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "3",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com6.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Sesame Cold",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "4",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com7.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Ginger String",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "5",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com8.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Cucumber Salad",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "6",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com9.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Poached Tender",
           "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "7",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes1.png",
+          "title": "Midwestern",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "8",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes2.png",
+          "title": "Crab Dish",
+          "price": 1.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "9",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com.png",
+          "title": "Tater Tot",
+          "price": 3.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "10",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com1.png",
+          "title": "Casserolli",
+          "price": 2.69,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "11",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com2.png",
+          "title": "Kentucky",
+          "price": 2.39,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "12",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com3.png",
+          "title": "Molly Yeh's",
+          "price": 2.99,
           "nimasidir": "20 Bowls available"
         }
       ]
     },
     {
-      "id": "1",
-      "category": "Hot Dishes",
+      "id": "3",
+      "category": "Soup",
       "products": [
         {
           "id": "1",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com10.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Kasseler",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "2",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com11.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Jango",
           "price": 1.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "3",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com12.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Spinache",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "4",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com13.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Vegetable Broth",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "5",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes1.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Egg Dropp",
           "price": 2.29,
           "nimasidir": "20 Bowls available"
         },
         {
           "id": "6",
           "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com1.png",
-          "title": "Spicy seasoned seafood noodles",
+          "title": "Rise & Dea",
           "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "7",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes1.png",
+          "title": "Midwestern",
+          "price": 2.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "8",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/dishes2.png",
+          "title": "Crab Dish",
+          "price": 1.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "9",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com.png",
+          "title": "Tater Tot",
+          "price": 3.29,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "10",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com1.png",
+          "title": "Casserolli",
+          "price": 2.69,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "11",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com2.png",
+          "title": "Kentucky",
+          "price": 2.39,
+          "nimasidir": "20 Bowls available"
+        },
+        {
+          "id": "12",
+          "img": "https://raw.githubusercontent.com/jaska0704/restaran/master/client/images/pngwing.com3.png",
+          "title": "Molly Yeh's",
+          "price": 2.99,
           "nimasidir": "20 Bowls available"
         }
       ]

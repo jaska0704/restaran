@@ -12,6 +12,7 @@ body {
 }
 
 #sidebarMenu {
+  position: fixed;
   height: 100%;
   left: 0;
   width: 70px;
@@ -54,4 +55,8 @@ input[type=checkbox] {
 
 .main.box {
   background-color: #1F1D2B;
+}
+
+.active_Button {
+  color: rgb(247, 149, 12);
 }/*# sourceMappingURL=main.css.map */

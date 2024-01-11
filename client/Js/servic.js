@@ -5,6 +5,7 @@ export const getAllCategory = async () => {
     const res = await fetch(baceUrl);
     const data = await res.json();
 
+
     return data;
   } catch (error) {}
 };
